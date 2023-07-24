@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-afshan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Mobile App Development
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me: LinkedIn - Siddiqah Afshan
 
